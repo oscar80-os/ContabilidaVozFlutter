@@ -87,3 +87,12 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+  # pubspec.yaml
+
+  dev_dependencies:
+   flutter_launcher_icons: ^0.13.1
+   build_runner: ^2.4.8
+
+  # Definimos un script personalizado
+  scripts:
+   build_apk: ./build_apk.sh

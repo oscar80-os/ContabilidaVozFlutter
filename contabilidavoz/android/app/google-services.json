@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623215614476",
+    "project_id": "voiceledger-m14ae",
+    "storage_bucket": "voiceledger-m14ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623215614476:android:16802276add87f5faa6c29",
+        "android_client_info": {
+          "package_name": "com.oscar80os.contabilidadvoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623215614476-ul6ad9i08bjnsvcgc1haomu9bveiubnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo7VlbfAhpGPEm-8xvluN85DOAP1CywYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623215614476-ul6ad9i08bjnsvcgc1haomu9bveiubnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
